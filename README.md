@@ -33,8 +33,8 @@ Le projet comporte :
 
 | Dossier | Contenu |
 |----------|----------|
-| `Python/` | Code source en Python (`OriginalABC.py`) |
+| `Python/` | Code source en Python (`codeABCPython.py`) |
 | `C++/` | Code source en C++ (`main.cpp`, `OriginalABC.cpp`, `OriginalABC.h`) |
-| `Results/` | Graphiques et résultats comparatifs |
+| `Résultats/` | Graphiques et résultats comparatifs |
 | `Rapport/` | Rapport PDF complet expliquant l’algorithme et les expérimentations |
 
