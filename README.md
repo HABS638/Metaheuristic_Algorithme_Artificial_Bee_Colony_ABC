@@ -1,11 +1,11 @@
-# 🐝 Artificial Bee Colony (ABC) Algorithm: Python vs C++
+#  Artificial Bee Colony (ABC) Algorithm: Python vs C++
 
 Ce projet met en œuvre et compare l’algorithme **Artificial Bee Colony (ABC)** en **Python** et **C++**.  
 L’objectif est d’évaluer les performances des deux implémentations sur plusieurs fonctions de benchmark classiques : **Rosenbrock**, **Rastrigin**, et **Ackley**.
 
 ---
 
-## 📘 Description du projet
+## Description du projet
 
 L’**algorithme ABC** est une méthode d’optimisation inspirée du comportement des colonies d’abeilles dans la recherche de nourriture.  
 Chaque abeille représente une solution candidate et interagit avec les autres pour trouver l’optimum global.
@@ -17,7 +17,7 @@ Le projet comporte :
 
 ---
 
-## ⚙️ Fonctionnalités principales
+## Fonctionnalités principales
 
 - Simulation des trois phases de l’algorithme : abeilles **employées**, **spectatrices**, et **éclaireuses**.  
 - Exécution sur des fonctions de test non convexes :
@@ -29,7 +29,7 @@ Le projet comporte :
 
 ---
 
-## 🧩 Organisation du dépôt
+## Organisation du dépôt
 
 | Dossier | Contenu |
 |----------|----------|
